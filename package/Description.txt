@@ -1,0 +1,4 @@
+This solution provides widgets to visualize the air quality index of your environment.
+
+It works with 4 metrics that it uses to track progress.
+

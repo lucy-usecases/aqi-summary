@@ -1,0 +1,7 @@
+{
+    "title":"AQI Dashboard",
+    "tags":["iaq"],
+    "version":"1.0.0",
+    "public":true,
+    "connectorsRequired":[]
+}
