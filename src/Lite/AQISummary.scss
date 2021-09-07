@@ -1,0 +1,62 @@
+.AQIsummary-selectfilter{
+    min-width: 200px !important;
+    width:200px !important;
+    background-color: white !important;
+    box-shadow: 0 1px 8px 2px rgba(0, 0, 0, 0.12) !important;
+    border-radius: 10px !important;
+}
+.AQIsummary-main{
+    width:100%;
+    height:100%;
+    position: relative;
+    .AQIsummary-main-chart{
+        padding-left: 30px;
+        position: relative;
+    }
+    .AQIsummary-legends-positioning{
+        position: absolute;
+        left: 340px;
+        top:70px;
+        z-index: 2;
+        .AQIsummary-legends-container{
+            position: relative;
+            .AQIsummary-legends-box{
+                width: 10px;
+                height: 10px;
+            }
+            .AQIsummary-legends-text{
+                font-size: 10px;
+                font-weight: bolder;
+            }
+        }
+    }
+}
+
+.highcharts-color-undefined{
+    .insightslastackchart-legend-wrapper {
+        .insightslastackchart-legend-label {
+            font-weight: bolder;
+            color: #165ac7 ;
+        }
+    }
+    .insightslastackchart-legend-wrapper:hover {
+        .insightslastackchart-legend-label {
+            font-weight: bolder;
+            color: #0032c9;
+        }
+    }
+    &.highcharts-legend-item-hidden{
+        .insightslastackchart-legend-wrapper {
+            .insightslastackchart-legend-label {
+                font-weight: bolder;
+                color: #6594e0 !important;
+            }
+        }
+        .insightslastackchart-legend-wrapper:hover {
+            .insightslastackchart-legend-label {
+                font-weight: bolder;
+                color: #6594e0 !important;
+            }
+        }
+    }
+}

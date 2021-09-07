@@ -1,0 +1,37 @@
+{
+    "id": "0bd0eadc-48a2-481d-e015-89ba8b71352b",
+    "author": "",
+    "widgets": [
+        {
+            "id": "AQISummaryLite",
+            "name": "AQISummaryLite",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "AQISummaryLiteLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "AQISummaryLiteLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "AQISummaryLiteLink",
+            "title": "AQISummaryLite"
+        }
+    ]
+}
